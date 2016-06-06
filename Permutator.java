@@ -24,7 +24,7 @@ public abstract class Permutator<I, O> {
 	/**
 	 * Returns the current step of the permutation
 	 * 
-	 * @return
+	 * @return 
 	 */
 	abstract O getCurrent();
 	
