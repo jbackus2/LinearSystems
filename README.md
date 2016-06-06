@@ -1,2 +1,4 @@
 # LinearSystems
-Readme file
+Goals:
+-Matrix Class
+-Generation
